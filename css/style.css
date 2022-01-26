@@ -779,5 +779,9 @@ h4 {
   #video-popup .video-box .waves-block {
     display: none;
   }
+	#fadeOutLogo{display:none;}
+	#fadeOutLeftLogo{display:none}
+	#fadeOutRightLogo{display:none}
+	
 }
 /*# sourceMappingURL=style.css.map */
