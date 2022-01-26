@@ -779,7 +779,7 @@ h4 {
   #video-popup .video-box .waves-block {
     display: none;
   }
-	.fadeOutLogo {
+  .fadeOutLogo {
     -webkit-animation: none;
     animation: none;
     display: none;
